@@ -59,7 +59,7 @@ Prerequisites
 
 # Clone Repository
 
-git clone https://github.com/abusufiyanakkalkotkar/Appium-Smoke-Testing.git  
+git clone https://github.com/abusufiyanakkalkotkar/Appium-Mobile-Testing.git  
 cd Appium-Smoke-Testing  
 
 
